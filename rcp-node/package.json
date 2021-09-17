@@ -1,0 +1,10 @@
+{
+  "name": "rcp-node",
+  "packageManager": "yarn@3.0.2",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "real-cancellable-promise": "^1.0.0-alpha.2"
+  }
+}
