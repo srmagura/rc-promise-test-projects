@@ -9,13 +9,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "rcp-node@workspace:."
   dependencies:
-    real-cancellable-promise: ^1.0.0-alpha.4
+    real-cancellable-promise: ^1.0.0-alpha.5
   languageName: unknown
   linkType: soft
 
-"real-cancellable-promise@npm:^1.0.0-alpha.4":
-  version: 1.0.0-alpha.4
-  resolution: "real-cancellable-promise@npm:1.0.0-alpha.4"
-  checksum: 954baced15ef33082391c004c89e561541fa62d32491287ee26f46c0b6c6eb68497b97ed1f368e6b48d43fb639b6af3596d287f8f21c18c557471c725f1b0ef9
+"real-cancellable-promise@npm:^1.0.0-alpha.5":
+  version: 1.0.0-alpha.5
+  resolution: "real-cancellable-promise@npm:1.0.0-alpha.5"
+  checksum: 3d641ddc7504157ca3e7ff61b464c9c6952e171c78686be3d117c523df4cc9dbd18a583d5a66b3fec91ef09971b68355c585fcb6a728251c20b79f18cc374306
   languageName: node
   linkType: hard
