@@ -6781,10 +6781,10 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"real-cancellable-promise@npm:^1.0.0-alpha.2":
-  version: 1.0.0-alpha.2
-  resolution: "real-cancellable-promise@npm:1.0.0-alpha.2"
-  checksum: 064065f0888f7e5e20cc30425fcf6ab7387777e93976cf09205a730926bed67267c0952d887ac82088529815274e9f72a13204b6080231c5282d627112375a14
+"real-cancellable-promise@npm:^1.0.0-alpha.4":
+  version: 1.0.0-alpha.4
+  resolution: "real-cancellable-promise@npm:1.0.0-alpha.4"
+  checksum: 954baced15ef33082391c004c89e561541fa62d32491287ee26f46c0b6c6eb68497b97ed1f368e6b48d43fb639b6af3596d287f8f21c18c557471c725f1b0ef9
   languageName: node
   linkType: hard
 
@@ -7034,7 +7034,7 @@ fsevents@^1.2.7:
     react-dom: 16.13.1
     react-native: "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz"
     react-native-web: ~0.13.12
-    real-cancellable-promise: ^1.0.0-alpha.2
+    real-cancellable-promise: ^1.0.0-alpha.4
     typescript: ~4.0.0
   languageName: unknown
   linkType: soft

@@ -4,7 +4,8 @@
   "scripts": {
     "start": "node index.js"
   },
+  "type": "module",
   "dependencies": {
-    "real-cancellable-promise": "^1.0.0-alpha.2"
+    "real-cancellable-promise": "^1.0.0-alpha.4"
   }
 }
