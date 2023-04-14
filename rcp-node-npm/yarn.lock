@@ -14,8 +14,8 @@ __metadata:
   linkType: soft
 
 "real-cancellable-promise@npm:^1.1.0-alpha.2":
-  version: 1.1.0-alpha.2
-  resolution: "real-cancellable-promise@npm:1.1.0-alpha.2"
-  checksum: 8c6982fb84c7b4f9256e9f0548537b9fc3f2221484cc64e9745bc5610c9df1e354d9483359877a5059e8e036547c27abc5b70320c46865eee6e54f8df27edea9
+  version: 1.1.2
+  resolution: "real-cancellable-promise@npm:1.1.2"
+  checksum: 524edcad62a76ae062452a80c6854579a55f9a769a96a6ac31d5e316c32f9700aba05e142f4b2fedf546c39c9756090047016d527d9fc20e082ebfbfc1952d84
   languageName: node
   linkType: hard

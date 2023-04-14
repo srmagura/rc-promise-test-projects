@@ -1,6 +1,6 @@
 {
   "name": "rcp-node",
-  "packageManager": "yarn@3.0.2",
+  "packageManager": "yarn@3.5.0",
   "scripts": {
     "start": "node index.js"
   },
